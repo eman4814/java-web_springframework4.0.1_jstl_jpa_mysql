@@ -1,0 +1,16 @@
+.home-header{
+	background-color: #000;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	color: #fff;
+}
+.home-content{
+	margin-top: 100px;
+}
+.btn-custom{
+	padding: 10px 50px;
+	margin-top: 10px;
+        margin-bottom: 10px;
+}
